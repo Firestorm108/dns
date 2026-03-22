@@ -322,6 +322,11 @@ diafano: # cfanoulis/diafano-hackclub
   ttl: 600
   type: A
   value: 76.76.21.21
+
+discrete: # firestxrmx@gmail.com U091J3R7GAC
+  ttl: 600
+  type: CNAME
+  value: firestorm108.github.io
   
 doruk: 
   ttl: 600 
@@ -1178,3 +1183,6 @@ zoneout: # kilecraft90@gmail.com U08GCDHM0QZ
   - ttl: 600
     type: CNAME
     value: cname.vercel-dns.com.
+
+
+    
